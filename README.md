@@ -1,4 +1,6 @@
 # BASA-Competition--Text-Classification
+Our team members are Po-Nien Chiang, Lan Ken Nhan, Xiaoxuan Iris Feng, Yufei Lisa Wang.
+
 
 The aim of this repository is to do the text classification on apple store app description, then decide the app's category.
 
